@@ -8,5 +8,6 @@ public class Git_Test01 {
     public static void main(String[] args) {
         System.out.println("this is git test");
         System.out.println("my-fix change");
+        System.out.println("master change");
     }
 }
