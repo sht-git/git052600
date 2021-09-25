@@ -10,5 +10,6 @@ public class Git_Test01 {
         System.out.println("my-fix change");
         System.out.println("master change");
         System.out.println("my-fix change2");
+        System.out.println("master up");
     }
 }
