@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("change git");
         System.out.println("change git1");
         System.out.println("hello test ");
+        System.out.println("up git");
     }
 }
