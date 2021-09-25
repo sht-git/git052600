@@ -13,5 +13,6 @@ public class Git_Test01 {
         System.out.println("master up");
         System.out.println("master up");
         System.out.println("最新修改by myfix");
+        System.out.println("最新同时修改by myfix");
     }
 }
